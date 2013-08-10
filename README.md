@@ -14,5 +14,4 @@ Ruby extra library: some useful non-core functions
 
 ### TODO
 
-* Make it a gem
 * Add useful functions ;)
