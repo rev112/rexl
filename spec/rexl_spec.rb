@@ -1,7 +1,4 @@
-#!/usr/bin/env ruby
-# -*- encoding : utf-8 -*- 
-
-require_relative '../rexl'
+require_relative '../lib/rexl'
 
 describe String, '#^' do
 
